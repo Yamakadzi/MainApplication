@@ -1,0 +1,50 @@
+﻿<Window x:Class="ProductAccounting.MyProductsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProductAccounting"
+        mc:Ignorable="d"
+        Title="Мои Продукты" Height="530" Width="800" 
+        ResizeMode="NoResize"
+        Background="#DEF4FE">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition ></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Поиск" FontSize="25"  BorderThickness="1" BorderBrush="Black"  Foreground="Black" />
+        <TextBox x:Name="SearchTextBox" TextChanged="SearchTextBox_TextChanged" Grid.Column="1" VerticalContentAlignment="Center" FontSize="20" Background="#DEF4FE" BorderBrush="Black"  Foreground="Black" />
+
+        <DataGrid x:Name="DGridMyProducts" Grid.Row="1" Grid.ColumnSpan="2" AutoGenerateColumns="False" IsReadOnly="True" Background="#DEF4FE">
+            <DataGrid.Resources>
+                <Style TargetType="DataGridCell">
+                    <Setter Property="Background" Value="#DEF4FE" />
+                </Style>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="Background" Value="#DEF4FE" />
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Название продукта" Binding="{Binding NameProduct}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Срок годности" Binding="{Binding ShelfLife, StringFormat={}{0:dd.MM.yyyy}}" Width="*"></DataGridTextColumn>
+                <DataGridTextColumn Header="Количество" Binding="{Binding Count}" Width="*"></DataGridTextColumn>
+                <DataGridTemplateColumn Width="auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="RemoveButton" Content="Удалить" Click="RemoveButton_Click" Background="#845EC2" BorderBrush="Black"  Foreground="Black" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="ShoppingList" Content="Список покупок" FontSize="25"  Grid.Column="0" Grid.Row="2" Click="ShoppingList_Click" Background="#845EC2" BorderBrush="Black"  Foreground="Black"/>
+        <Button x:Name="AddMyProduct" Content="Добавить продукт" FontSize="25" Grid.Column="1" Grid.Row="2" Click="AddMyProduct_Click" Background="#318EAB" BorderBrush="Black"  Foreground="Black" />
+    </Grid>
+</Window>

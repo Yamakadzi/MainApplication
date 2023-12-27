@@ -1,0 +1,31 @@
+﻿<Window x:Class="ProductAccounting.AddProductShoppintListWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProductAccounting"
+        mc:Ignorable="d"
+        Title="Добавление продукта в список покупок" Height="530" Width="800"
+        ResizeMode="NoResize"
+        Background="#DEF4FE">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto" ></RowDefinition>
+            <RowDefinition Height="auto" ></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition ></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Label Content="Наименование продукта:" FontSize="25" Grid.ColumnSpan="2" BorderBrush="Black"  Foreground="Black" />
+        <TextBox x:Name="NameProductsTextBox" Grid.ColumnSpan="2" Grid.Row="1" VerticalContentAlignment="Center" FontSize="20" Background="#DEF4FE" BorderBrush="Black"  Foreground="Black" />
+        <Label Content="Количество" Grid.Row="2" Grid.ColumnSpan="2" FontSize="25" BorderBrush="Black"  Foreground="Black"/>
+        <TextBox x:Name="CountProductsTextBox" Grid.ColumnSpan="2" Grid.Row="3" VerticalContentAlignment="Center" FontSize="20" Background="#DEF4FE" BorderBrush="Black"  Foreground="Black"/>
+        <Button x:Name="AddProduct" Content="Добавить продукт" FontSize="25"  Grid.Column="1"  Grid.Row="5" Grid.ColumnSpan="1" Click="AddProduct_Click"  Background="#318EAB" BorderBrush="Black"  Foreground="Black"/>
+        <Button x:Name="ProductList" Content="Список покупок" FontSize="25" Grid.Column="0"  Grid.Row="5" Grid.ColumnSpan="1" Click="ProductList_Click" Background="#845EC2" BorderBrush="Black"  Foreground="Black" />
+    </Grid>
+</Window>

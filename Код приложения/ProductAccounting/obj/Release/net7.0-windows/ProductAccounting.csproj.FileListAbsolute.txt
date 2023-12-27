@@ -1,0 +1,264 @@
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.exe
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.dll.config
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.deps.json
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.runtimeconfig.json
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.pdb
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Azure.Core.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Azure.Identity.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\EPPlus.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Humanizer.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\System.Memory.Data.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Release\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.csproj.AssemblyReference.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\AddMyProduct.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\AddProductShoppintListWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\MainWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\MyProductsWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\RegistrationWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ShoppingListWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\App.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting_Content.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting_MarkupCompile.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting_MarkupCompile.lref
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\AddMyProduct.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\AddProductShoppintListWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\MainWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\MyProductsWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\RegistrationWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ShoppingListWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.g.resources
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.Properties.Resources.resources
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.csproj.GenerateResource.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.AssemblyInfoInputs.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.AssemblyInfo.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.csproj.CopyComplete
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\refint\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.pdb
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.genruntimeconfig.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Release\net7.0-windows\ref\ProductAccounting.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.exe
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.dll.config
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.deps.json
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.runtimeconfig.json
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.pdb
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Azure.Core.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Azure.Identity.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\EPPlus.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\EPPlus.Interfaces.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\EPPlus.System.Drawing.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Humanizer.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\Mono.TextTemplating.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\System.Memory.Data.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\System.Runtime.Caching.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.csproj.AssemblyReference.cache
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\AddMyProduct.g.cs
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\AddProductShoppintListWindow.g.cs
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\MainWindow.g.cs
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\MyProductsWindow.g.cs
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\RegistrationWindow.g.cs
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ShoppingListWindow.g.cs
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\App.g.cs
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting_Content.g.cs
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting_MarkupCompile.cache
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting_MarkupCompile.lref
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\AddMyProduct.baml
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\AddProductShoppintListWindow.baml
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\MainWindow.baml
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\MyProductsWindow.baml
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\RegistrationWindow.baml
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ShoppingListWindow.baml
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.g.resources
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.Properties.Resources.resources
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.csproj.GenerateResource.cache
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.AssemblyInfoInputs.cache
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.AssemblyInfo.cs
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.csproj.CoreCompileInputs.cache
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.csproj.CopyComplete
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.dll
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\refint\ProductAccounting.dll
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.pdb
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.genruntimeconfig.cache
+D:\Приложение\ProductAccounting\obj\Release\net7.0-windows\ref\ProductAccounting.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.exe
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.dll.config
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.deps.json
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.runtimeconfig.json
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.pdb
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Azure.Core.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Azure.Identity.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\EPPlus.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\EPPlus.Interfaces.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\EPPlus.System.Drawing.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Humanizer.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\Mono.TextTemplating.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\System.Memory.Data.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\System.Runtime.Caching.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Код приложения\ProductAccounting\bin\Release\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.csproj.AssemblyReference.cache
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\AddMyProduct.g.cs
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\AddProductShoppintListWindow.g.cs
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\MainWindow.g.cs
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\MyProductsWindow.g.cs
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\RegistrationWindow.g.cs
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ShoppingListWindow.g.cs
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\App.g.cs
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting_Content.g.cs
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting_MarkupCompile.cache
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting_MarkupCompile.lref
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\AddMyProduct.baml
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\AddProductShoppintListWindow.baml
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\MainWindow.baml
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\MyProductsWindow.baml
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\RegistrationWindow.baml
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ShoppingListWindow.baml
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.g.resources
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.Properties.Resources.resources
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.csproj.GenerateResource.cache
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.AssemblyInfoInputs.cache
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.AssemblyInfo.cs
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.csproj.CoreCompileInputs.cache
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.csproj.CopyComplete
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.dll
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\refint\ProductAccounting.dll
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.pdb
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ProductAccounting.genruntimeconfig.cache
+D:\Код приложения\ProductAccounting\obj\Release\net7.0-windows\ref\ProductAccounting.dll

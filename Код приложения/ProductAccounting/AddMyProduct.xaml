@@ -1,0 +1,36 @@
+﻿<Window x:Class="ProductAccounting.AddMyProduct"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProductAccounting"
+        mc:Ignorable="d"
+        Title="Добавление продукта в мои продукты" Height="530" Width="800"
+        ResizeMode="NoResize"
+        Background="#DEF4FE">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Наименование продукта" FontSize="25" BorderBrush="Black"  Foreground="Black"/>
+        <Label Content="Срок хранения" Grid.Row="1" FontSize="25" BorderBrush="Black"  Foreground="Black"/>
+        <Label Content="Количество" Grid.Row="2" FontSize="25" BorderBrush="Black"  Foreground="Black"/>
+        <TextBox x:Name="NameProductsTextBox"  Grid.Column="1" VerticalContentAlignment="Center" FontSize="20" Background="#DEF4FE" BorderBrush="Black"  Foreground="Black"/>
+        <TextBox x:Name="CountProductsTextBox" Grid.Row="2"  Grid.Column="1" VerticalContentAlignment="Center" FontSize="20" Background="#DEF4FE" BorderBrush="Black"  Foreground="Black"/>
+        <Viewbox Grid.Column="1" Grid.Row="1">
+            <Calendar x:Name="ShelfLifeCalendar" FirstDayOfWeek="Monday"  Background="#DEF4FE" BorderBrush="Black"  Foreground="Black" />
+        </Viewbox>
+        <Button x:Name="AddProduct" Content="Добавить продукт" FontSize="25" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="1" Click="AddProduct_Click" Background="#318EAB" BorderBrush="Black"  Foreground="Black"/>
+        <Button x:Name="MyProduct" Content="Мои продукты" FontSize="25" Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="1" Click="MyProduct_Click" Background="#845EC2" BorderBrush="Black"  Foreground="Black"/>
+
+    </Grid>
+</Window>

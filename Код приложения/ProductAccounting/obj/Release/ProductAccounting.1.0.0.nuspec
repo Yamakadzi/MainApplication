@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ProductAccounting</id>
+    <version>1.0.0</version>
+    <authors>ProductAccounting</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0">
+        <dependency id="EPPlus" version="7.0.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net7.0-windows7.0/notepad_15342.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.runtimeconfig.json" target="lib\net7.0-windows7.0\ProductAccounting.runtimeconfig.json" />
+    <file src="D:\Приложение\ProductAccounting\bin\Release\net7.0-windows\ProductAccounting.dll" target="lib\net7.0-windows7.0\ProductAccounting.dll" />
+    <file src="D:\Приложение\ProductAccounting\notepad_15342.ico" target="content\notepad_15342.ico" />
+    <file src="D:\Приложение\ProductAccounting\notepad_15342.ico" target="contentFiles\any\net7.0-windows7.0\notepad_15342.ico" />
+  </files>
+</package>

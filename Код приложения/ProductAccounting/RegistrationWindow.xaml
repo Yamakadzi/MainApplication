@@ -1,0 +1,35 @@
+﻿<Window x:Class="ProductAccounting.RegistrationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProductAccounting"
+        mc:Ignorable="d"
+        Title="Регистрация" Height="530" Width="800"
+        ResizeMode="NoResize"
+        Background="#DEF4FE">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition ></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto" ></RowDefinition>
+            <RowDefinition ></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Логин"  Grid.Row = "1" Grid.Column="1"  BorderThickness="1" FontSize="25" BorderBrush="Black"  Foreground="Black" />
+        <Label Content="Email" Grid.Row = "2" Grid.Column="1"  BorderThickness="1" FontSize="25" BorderBrush="Black"  Foreground="Black"/>
+        <Label Content="Пароль" Grid.Row = "3" Grid.Column="1"  BorderThickness="1" FontSize="25" BorderBrush="Black"  Foreground="Black"/>
+        <TextBox x:Name="LoginTextBox" Grid.Row = "1" Grid.Column="2" VerticalContentAlignment="Center" FontSize="20" Background="#DEF4FE" BorderBrush="Black"  Foreground="Black"/>
+        <TextBox x:Name="EmailTextBox" Grid.Row = "2" Grid.Column="2" VerticalContentAlignment="Center" FontSize="20" Background="#DEF4FE" BorderBrush="Black"  Foreground="Black" />
+        <PasswordBox x:Name="PasswordBox"  Grid.Row = "3" Grid.Column="2" VerticalContentAlignment="Center" FontSize="20" Background="#DEF4FE" BorderBrush="Black"  Foreground="Black" />
+        <Button x:Name="RegistrationButton" Content="Зарегистрироваться" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" FontSize="25" Background="#845EC2" Click="RegistrationButton_Click" BorderBrush="Black"  Foreground="Black"/>
+    </Grid>
+</Window>

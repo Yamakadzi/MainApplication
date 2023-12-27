@@ -1,0 +1,660 @@
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.exe
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.deps.json
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.runtimeconfig.json
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.pdb
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\App.g.cs
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.cache
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.lref
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.g.resources
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfoInputs.cache
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfo.cs
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CoreCompileInputs.cache
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\refint\ProductAccounting.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.pdb
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.genruntimeconfig.cache
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ref\ProductAccounting.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.AssemblyReference.cache
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CopyComplete
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.g.cs
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.g.cs
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.baml
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.baml
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.g.cs
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.baml
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.g.cs
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.g.cs
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.baml
+C:\Temp\!ispp01\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.baml
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.exe
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.deps.json
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.runtimeconfig.json
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.pdb
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Humanizer.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.AssemblyReference.cache
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.g.cs
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.g.cs
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.g.cs
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.g.cs
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.g.cs
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\App.g.cs
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.cache
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.lref
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.baml
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.baml
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.baml
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.baml
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.baml
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.baml
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.g.resources
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfoInputs.cache
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfo.cs
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CoreCompileInputs.cache
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CopyComplete
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\refint\ProductAccounting.dll
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.pdb
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.genruntimeconfig.cache
+C:\учеба\KursovoiProekt\Макет курсача (1)\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ref\ProductAccounting.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.exe
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.deps.json
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.runtimeconfig.json
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.pdb
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Humanizer.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.AssemblyReference.cache
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.g.cs
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.g.cs
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.g.cs
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.g.cs
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.g.cs
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\App.g.cs
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.cache
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.lref
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.baml
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.baml
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.baml
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.baml
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.baml
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.baml
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.g.resources
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfoInputs.cache
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfo.cs
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CoreCompileInputs.cache
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CopyComplete
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\refint\ProductAccounting.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.pdb
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.genruntimeconfig.cache
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ref\ProductAccounting.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\учеба\Kyrsovoi1!\Макет курсача\Макет курсача\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.exe
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.deps.json
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.runtimeconfig.json
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.pdb
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.AssemblyReference.cache
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.g.cs
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.g.cs
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.g.cs
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.g.cs
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.g.cs
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\App.g.cs
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.cache
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.lref
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.baml
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.baml
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.baml
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.baml
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.baml
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.g.resources
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfoInputs.cache
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfo.cs
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CoreCompileInputs.cache
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CopyComplete
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\refint\ProductAccounting.dll
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.pdb
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.genruntimeconfig.cache
+C:\Temp\!ispp01\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ref\ProductAccounting.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.exe
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.deps.json
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.runtimeconfig.json
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.pdb
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Humanizer.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.AssemblyReference.cache
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.g.cs
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.g.cs
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.g.cs
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.g.cs
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.g.cs
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\App.g.cs
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.cache
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.lref
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.baml
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.baml
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.baml
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.baml
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.baml
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.baml
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.g.resources
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfoInputs.cache
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfo.cs
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CoreCompileInputs.cache
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CopyComplete
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\refint\ProductAccounting.dll
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.pdb
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.genruntimeconfig.cache
+C:\учеба\Kysrovoi_09_12_FinalVersion\ProductAccounting (2)\ProductAccounting\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ref\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.exe
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.deps.json
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.runtimeconfig.json
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.pdb
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.AssemblyReference.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.lref
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.g.resources
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfoInputs.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfo.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CopyComplete
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\refint\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.pdb
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.genruntimeconfig.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ref\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_Content.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.dll.config
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.Properties.Resources.resources
+C:\Users\Владелец Super PC\Desktop\ProductAccounting\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.GenerateResource.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.exe
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.dll.config
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.deps.json
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.runtimeconfig.json
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.pdb
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.AssemblyReference.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_Content.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.lref
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.g.resources
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.Properties.Resources.resources
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.GenerateResource.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfoInputs.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfo.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CopyComplete
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\refint\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.pdb
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.genruntimeconfig.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — копия\ProductAccounting\obj\Debug\net7.0-windows\ref\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.exe
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.dll.config
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.deps.json
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.runtimeconfig.json
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\ProductAccounting.pdb
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.Interfaces.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.AssemblyReference.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_Content.g.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting_MarkupCompile.lref
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\AddMyProduct.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\AddProductShoppintListWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\MyProductsWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\RegistrationWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ShoppingListWindow.baml
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.g.resources
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.Properties.Resources.resources
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.GenerateResource.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfoInputs.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.AssemblyInfo.cs
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.csproj.CopyComplete
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\refint\ProductAccounting.dll
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.pdb
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ProductAccounting.genruntimeconfig.cache
+C:\Users\Владелец Super PC\Desktop\ProductAccounting — Основная\ProductAccounting\obj\Debug\net7.0-windows\ref\ProductAccounting.dll
